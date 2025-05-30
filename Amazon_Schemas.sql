@@ -1,18 +1,6 @@
 -- Amazon Project - Advanced SQL 
 
 
-
--- Hi please make sure to follow below hirearary to import the data
--- 1st import to category table
--- 2nd Import to customers
--- 3rd Import to sellers
--- 4th Import to Products
--- 5th Import to orders
--- 6th Import to order_items
--- 7th Import to payments
--- 8th Import to shippings table
--- 9th Import to Inventory Table
-
 DROP TABLE IF EXISTS shippings;
 DROP TABLE IF EXISTS payments;
 DROP TABLE IF EXISTS inventory;
